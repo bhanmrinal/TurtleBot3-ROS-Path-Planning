@@ -1,6 +1,6 @@
 # Turtlebot3 ROS Path Planning & Navigation
+![image](https://github.com/user-attachments/assets/2996b293-228e-4545-b061-8f2ab6d2289e)
 
-## Description
 The goal is to use the turtlebot to map an environment and then navigate within the map using slam_toolbox.<br>
 The package contain 4 launchfiles and 1 node:
 
