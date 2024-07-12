@@ -1,5 +1,4 @@
 <launch>
-
   <arg name="rviz_arg" default="-d $(find homework4)/rviz/explore.rviz" />
 
     <!-- Turtlebot3 Gazebo -->
