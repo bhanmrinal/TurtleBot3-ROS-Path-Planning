@@ -1,13 +1,4 @@
-# Turtlebot3 Navigation and SLAM
-
-
-## Table of Contents
-
-- [Description](#description)
-- [Getting Started](#getting-started)
-- [Usage and Configuration Instructions](#usage-and-configuration-instructions)
-
-
+# Turtlebot3 ROS Path Planning & Navigation
 
 ## Description
 The goal is to use the turtlebot to map an environment and then navigate within the map using slam_toolbox.<br>
@@ -29,7 +20,7 @@ The package contain 4 launchfiles and 1 node:
 Create a workspace, clone the repo, and build the workspace:
 ```
 mkdir -p ws/src && cd ws/src
-git clone https://github.com/YaelBenShalom/Turtlebot3-Navigation-with-SLAM.git
+git clone https://github.com/bhanmrinal/TurtleBot3-ROS-Path-Planning.git
 cd ../..
 catkin_make
 source devel/setup.bash 
